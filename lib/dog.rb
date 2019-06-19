@@ -4,6 +4,6 @@ class Dog
     if breed == null
       @breed = "Mutt"
     else @breed = breed
-  end
-
+    end
+  end  
 end
